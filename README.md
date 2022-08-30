@@ -1,1 +1,2 @@
-My first readme
+My first readme.
+This is an up-to-date readme file.
